@@ -1,0 +1,16 @@
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.csproj.CopyComplete
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Implementation\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Implementation.csproj.CoreCompileInputs.cache

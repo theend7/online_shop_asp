@@ -1,0 +1,9 @@
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Domain\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.pdb

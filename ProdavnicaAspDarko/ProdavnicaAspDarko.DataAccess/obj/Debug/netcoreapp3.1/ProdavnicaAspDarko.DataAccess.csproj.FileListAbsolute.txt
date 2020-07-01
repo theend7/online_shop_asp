@@ -1,0 +1,8 @@
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.runtimeconfig.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.runtimeconfig.dev.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.DataAccess.genruntimeconfig.cache

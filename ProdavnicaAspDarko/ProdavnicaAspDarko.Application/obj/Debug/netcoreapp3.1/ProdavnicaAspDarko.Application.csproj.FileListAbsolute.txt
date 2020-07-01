@@ -1,0 +1,12 @@
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.csproj.CopyComplete
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.Application\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.Application.csproj.CoreCompileInputs.cache

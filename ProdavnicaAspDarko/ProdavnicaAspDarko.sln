@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdavnicaAspDarko.Domain", "ProdavnicaAspDarko.Domain\ProdavnicaAspDarko.Domain.csproj", "{61DC9268-31A5-436B-807C-24005505D90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdavnicaAspDarko.Application", "ProdavnicaAspDarko.Application\ProdavnicaAspDarko.Application.csproj", "{B2AF613B-5419-4EED-AC08-BB1709B5CF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdavnicaAspDarko.Implementation", "ProdavnicaAspDarko.Implementation\ProdavnicaAspDarko.Implementation.csproj", "{B874A6C3-59CD-4E61-8EF6-C2145185D58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdavnicaAspDarko.EFDataAccess", "ProdavnicaAspDarko.DataAccess\ProdavnicaAspDarko.EFDataAccess.csproj", "{4561D73B-C172-44CF-8880-1BE4F505F91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdavnicaAspDarko.Api", "ProdavnicaAspDarko.Api\ProdavnicaAspDarko.Api.csproj", "{D38932FB-DEBE-490E-A9D5-7C492EEFBA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DC9268-31A5-436B-807C-24005505D90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DC9268-31A5-436B-807C-24005505D90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DC9268-31A5-436B-807C-24005505D90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DC9268-31A5-436B-807C-24005505D90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AF613B-5419-4EED-AC08-BB1709B5CF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AF613B-5419-4EED-AC08-BB1709B5CF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AF613B-5419-4EED-AC08-BB1709B5CF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AF613B-5419-4EED-AC08-BB1709B5CF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B874A6C3-59CD-4E61-8EF6-C2145185D58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B874A6C3-59CD-4E61-8EF6-C2145185D58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B874A6C3-59CD-4E61-8EF6-C2145185D58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B874A6C3-59CD-4E61-8EF6-C2145185D58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4561D73B-C172-44CF-8880-1BE4F505F91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4561D73B-C172-44CF-8880-1BE4F505F91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4561D73B-C172-44CF-8880-1BE4F505F91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4561D73B-C172-44CF-8880-1BE4F505F91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38932FB-DEBE-490E-A9D5-7C492EEFBA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38932FB-DEBE-490E-A9D5-7C492EEFBA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38932FB-DEBE-490E-A9D5-7C492EEFBA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38932FB-DEBE-490E-A9D5-7C492EEFBA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637FF046-7906-47F6-9A9A-38A6F3054D97}
+	EndGlobalSection
+EndGlobal

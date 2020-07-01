@@ -1,0 +1,15 @@
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.runtimeconfig.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.runtimeconfig.dev.json
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\bin\Debug\netcoreapp3.1\ProdavnicaAspDarko.Domain.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.csproj.CopyComplete
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.dll
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.pdb
+C:\Users\Darko Vulicevic\source\repos\ProdavnicaAspDarko\ProdavnicaAspDarko.DataAccess\obj\Debug\netcoreapp3.1\ProdavnicaAspDarko.EFDataAccess.genruntimeconfig.cache

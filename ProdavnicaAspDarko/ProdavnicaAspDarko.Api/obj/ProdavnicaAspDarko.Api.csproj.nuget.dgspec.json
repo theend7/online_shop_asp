@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Api\\ProdavnicaAspDarko.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Api\\ProdavnicaAspDarko.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Api\\ProdavnicaAspDarko.Api.csproj",
+        "projectName": "ProdavnicaAspDarko.Api",
+        "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Api\\ProdavnicaAspDarko.Api.csproj",
+        "packagesPath": "C:\\Users\\Darko Vulicevic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Vulicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj"
+              },
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj"
+              },
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj"
+              },
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\ProdavnicaAspDarko.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\ProdavnicaAspDarko.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj",
+        "projectName": "ProdavnicaAspDarko.Application",
+        "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj",
+        "packagesPath": "C:\\Users\\Darko Vulicevic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Vulicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj",
+        "projectName": "ProdavnicaAspDarko.EFDataAccess",
+        "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Darko Vulicevic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Vulicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj",
+        "projectName": "ProdavnicaAspDarko.Domain",
+        "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\ProdavnicaAspDarko.Domain.csproj",
+        "packagesPath": "C:\\Users\\Darko Vulicevic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Vulicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\ProdavnicaAspDarko.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\ProdavnicaAspDarko.Implementation.csproj",
+        "projectName": "ProdavnicaAspDarko.Implementation",
+        "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\ProdavnicaAspDarko.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Darko Vulicevic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Vulicevic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.Application\\ProdavnicaAspDarko.Application.csproj"
+              },
+              "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Darko Vulicevic\\source\\repos\\ProdavnicaAspDarko\\ProdavnicaAspDarko.DataAccess\\ProdavnicaAspDarko.EFDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
