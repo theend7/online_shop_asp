@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProbaIspit.Application\ProbaIspit.Application.csproj" />
+    <ProjectReference Include="..\ProbaIspit.DataAccess\ProbaIspit.DataAccess.csproj" />
+    <ProjectReference Include="..\ProbaIspit.Implementation\ProbaIspit.Implementation.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.Implementation.deps.json
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.Implementation.dll
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.csprojAssemblyReference.cache
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.AssemblyInfoInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.AssemblyInfo.cs
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.DataAccess.exe
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.Implementation.pdb
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.Application.dll
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.DataAccess.dll
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.Application.pdb
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\bin\Debug\netcoreapp3.1\ProbaIspit.DataAccess.pdb
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.csproj.CopyComplete
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.dll
+C:\Users\Darko Vulicevic\source\repos\ProbaIspit\ProbaIspit.Implementation\obj\Debug\netcoreapp3.1\ProbaIspit.Implementation.pdb
